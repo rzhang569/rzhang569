@@ -1,14 +1,24 @@
 ### Hi, I'm Ruoshi 👋
 
-CS + Data Science student at the University of Wisconsin–Madison (graduating Dec 2027). I like building practical tools around LLMs and AI coding agents. Seeking Summer 2027 software engineering internships.
+I'm a CS + Data Science junior at UW–Madison looking for a Summer 2027 software engineering internship in backend development or AI tooling. Java is my main language.
 
-**Projects**
-- [BadgerForge](https://github.com/canyang25/BadgerForge): a team coding agent for the 89-task Terminal-Bench 2.1 benchmark (UW ML Marathon). I built the eval tooling and a resumable benchmark runner and improved how the agent handles truncated or command-less replies.
-- [Soundfield](https://soundfield.milo.page): a map of thousands of music artists, placed by who listens to both. CS 620 industry capstone with Google; I wrote the page deploy script, rebuilt the Duet start screen and am working on the collaboration links between artists.
-- [study-guide](https://github.com/rzhang569/study-guide): an Agent Skill that turns course slides into interactive exam-review pages with cited notes, practice questions and timed mock exams.
-- [claude-usage-page](https://github.com/rzhang569/claude-usage-page): brings back the Claude desktop app's usage card as a local page, with a `/my-usage` command for Claude Code.
+**Selected projects**
 
-**Contributions**
-- [STAT 453 Deep Learning & Generative Models](https://github.com/AdaptInfer/dgm-fall-2026): 4 merged PRs writing and fixing lecture notes.
+- [claude-usage-page](https://github.com/rzhang569/claude-usage-page) · [Live demo](https://rzhang569.github.io/claude-usage-page/)  
+  I built a local dashboard that shows Claude Code and Codex usage by day and by model. It runs on macOS and Windows.
 
-📫 rzhang569@wisc.edu · [LinkedIn](https://www.linkedin.com/in/ruoshi-zhang-a4971738a/)
+- [BadgerForge](https://github.com/canyang25/BadgerForge)  
+  Our UW ML Marathon team built a coding agent for Terminal-Bench 2.1. I built the evaluation tooling and a runner that can resume an interrupted benchmark. I also fixed how the agent handles incomplete model replies. [My 33 merged PRs](https://github.com/canyang25/BadgerForge/pulls?q=is%3Apr+is%3Amerged+author%3Arzhang569)
+
+- [study-guide](https://github.com/rzhang569/study-guide) · [Live demo](https://rzhang569.github.io/study-guide/)  
+  A skill for Claude Code and Codex that turns course slides into interactive study guides. Notes cite the slides, practice questions explain each answer choice, and students can take timed mock exams.
+
+- [Soundfield](https://soundfield.milo.page)  
+  A UW–Madison capstone project with Google. The map places artists near each other when they share listeners. I wrote the deployment script, rebuilt the Duet start screen, and added Google sign-in.
+
+- **Course Copilot** · Private course project  
+  A teammate and I built a FastAPI and React study assistant that answers questions from course files and cites its sources.
+
+I also contributed five merged PRs writing and correcting [deep learning lecture notes](https://github.com/AdaptInfer/dgm-fall-2026).
+
+[Email](mailto:rzhang569@wisc.edu) · [LinkedIn](https://www.linkedin.com/in/ruoshi-zhang-a4971738a/)
